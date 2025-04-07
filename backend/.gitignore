@@ -1,0 +1,3 @@
+# Ignore secret credentials
+service-account.json
+node_modules/
